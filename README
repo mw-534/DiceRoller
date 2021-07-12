@@ -1,0 +1,6 @@
+Simple Android example app.
+Rolls a dice.
+Contains SVGs for dice images and shows example for how to use Random class.
+
+Is based on this Udacity repository:
+https://github.com/udacity/andfun-kotlin-dice-roller
